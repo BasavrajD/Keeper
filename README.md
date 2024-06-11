@@ -1,3 +1,8 @@
+# keeper App
+This is a note taking app  similar to Google's keep notes made using only React. THroughout the development of this project I revised the core concepts of React and JS like Conditional rendering, destructuring, props & states, react hooks, etc.
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
